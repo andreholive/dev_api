@@ -11,7 +11,7 @@ desenvolvedores = [
     {
         'id':1,
         'nome':'Daniela',
-        'habilidades': ['Gostosa', 'Deliciosa']
+        'habilidades': ['Java', 'Spring Boot']
     }
 ]
 
